@@ -1,10 +1,8 @@
 {
-  "category": "MYTHOLOGICAL_CREATURE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/harpy",
     "maintainers": [
       {
@@ -18,389 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "harpy",
     "name": "Harpy",
-    "aliases": [
-      {
-        "name": "Harpies",
-        "language": "Greek",
-        "meaning": "plural form"
-      },
-      {
-        "name": "Harpyiai",
-        "language": "Ancient Greek",
-        "meaning": "snatchers"
-      },
-      {
-        "name": "The Harpies",
-        "meaning": "collective term"
-      }
-    ],
+    "aliases": [],
     "category": "MYTHOLOGICAL_CREATURE",
-    "subcategory": "Greek Mythology",
+    "subcategory": "Bird-woman",
     "tags": [
-      "mythological",
-      "greek",
-      "bird-woman",
-      "hybrid",
-      "wind-spirit",
-      "torment",
-      "punishment"
+      "&-interpretation"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Greek mythological creatures depicted as bird-women with woman's head and torso combined with bird wings, talons, and lower body. Originally wind spirits who evolved from beautiful to grotesque in mythology, known for snatching food and people.",
-      "full": "Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird. Originally conceived as wind spirits and daughters of Thaumas and Electra, they evolved from beautiful winged maidens to grotesque monsters in later mythology. Known as 'the snatchers,' harpies were said to snatch away food, carry off people, and torment victims, most famously the blind prophet Phineus whom they plagued by fouling his food until freed by the Argonauts. The three most famous harpies are Aello (storm swift), Ocypete (swift wing), and Celaeno (dark). They possessed incredible flight speed and the ability to carry away people or objects. Harpies came to symbolize divine punishment, guilt, and sudden disappearance. The term 'harpy' has evolved in modern usage to mean a shrewish or nagging woman, representing a negative linguistic evolution."
+      "summary": "Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird.",
+      "full": "Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird. Originally conceived as wind spirits and daughters of Thaumas and Electra, they evolved from beautiful winged maidens to grotesque monsters in later mythology. Known as \\\"the snatchers,\\\" harpies were said to snatch away food, carry off people, and torment victims, most famously the blind prophet Phineus whom they plagued by fouling his food until freed by the Argonauts. The three most famous harpies are **Aello** (storm swift), **Ocypete** (swift wing), and **Celaeno** (dark). They possessed incredible flight speed and the ability to carry away people or objects. Harpies came to symbolize divine punishment, guilt, and sudden disappearance. The term \\\"harpy\\\" has evolved in modern usage to mean a shrewish or nagging woman, representing a negative linguistic evolution."
     },
     "etymology": {
-      "origin": "From Greek 'harpyia,' from 'harpazein' meaning 'to snatch' or 'to seize'",
-      "meaning": "The snatchers or the swift robbers",
-      "first_use": "Ancient Greek mythology"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "MYTHOLOGICAL_CREATURE",
-      "type": "Hybrid",
-      "subtype": "Bird-woman",
-      "variant": "Greek"
+      "type": "Bird-woman",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "siren",
-        "name": "Siren",
-        "relationship": "similar",
-        "description": "Also bird-women in original Greek, but singers rather than snatchers"
-      },
-      {
-        "id": "furies",
-        "name": "Furies (Erinyes)",
-        "relationship": "similar",
-        "description": "Greek punishment spirits, sometimes winged"
-      },
-      {
-        "id": "sphinx",
-        "name": "Sphinx",
-        "relationship": "related",
-        "description": "Another Greek hybrid creature with woman's head"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "original_conception": "Beautiful winged maidens, wind spirits",
-      "later_evolution": "Grotesque bird-women with foul appearance and smell",
-      "features": [
-        {
-          "feature": "Woman's head and torso",
-          "description": "Human upper body, face of a woman",
-          "frequency": "always"
-        },
-        {
-          "feature": "Bird wings",
-          "description": "Large wings enabling swift flight",
-          "frequency": "always"
-        },
-        {
-          "feature": "Bird talons",
-          "description": "Sharp claws for grasping",
-          "frequency": "always"
-        },
-        {
-          "feature": "Bird lower body",
-          "description": "Feathered lower body and legs of a bird",
-          "frequency": "always"
-        },
-        {
-          "feature": "Foul smell",
-          "description": "Repulsive odor in later depictions",
-          "frequency": "common"
-        },
-        {
-          "feature": "Pallid complexion",
-          "description": "Often depicted with pale or sickly appearance",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Hybrid creature combining human upper body with avian lower body, wings, and talons. Evolution from beautiful to hideous over course of mythology."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Incredible flight speed",
-        "description": "Swift as the wind, extremely fast fliers",
-        "frequency": "always",
-        "evidence_level": "mythology"
-      },
-      {
-        "ability": "Snatching",
-        "description": "Snatch food, objects, and people",
-        "frequency": "always",
-        "evidence_level": "mythology"
-      },
-      {
-        "ability": "Carrying",
-        "description": "Carry away people to unknown locations",
-        "frequency": "common",
-        "evidence_level": "mythology"
-      },
-      {
-        "ability": "Food fouling",
-        "description": "Contaminate and befoul food and surroundings",
-        "frequency": "common",
-        "evidence_level": "mythology"
-      },
-      {
-        "ability": "Torment",
-        "description": "Inflict psychological and physical torment",
-        "frequency": "common",
-        "evidence_level": "mythology"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "variable",
-      "disposition": "malevolent",
-      "role": "Agents of divine punishment, snatchers, tormentors",
-      "patterns": [
-        "Snatch food before it can be eaten",
-        "Foul remaining food with stench and excrement",
-        "Carry away people (often to underworld)",
-        "Serve as instruments of divine vengeance",
-        "Swift attacks and rapid departure"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Greek mythology throughout Mediterranean region",
-      "continents": ["Europe", "Asia"],
-      "regions": [
-        "Ancient Greece",
-        "Mediterranean",
-        "Thrace (in Phineus myth)"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "c. 800 BCE",
+        "date": "Unknown",
         "circa": true,
-        "source": "Hesiod's Theogony"
-      },
-      "mythological_period": "Greek mythological age"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Greek mythology, originally wind spirits (daughters of sea god Thaumas and Oceanid Electra)",
-      "earliest_accounts": "Hesiod's Theogony (c. 700 BCE)",
-      "evolution": "Transformed from beautiful swift wind spirits to foul grotesque monsters in later mythology"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "c. 700 BCE",
-        "event": "Hesiod's Theogony",
-        "significance": "Early mention of harpies as daughters of Thaumas and Electra",
-        "source": "Theogony"
-      },
-      {
-        "date": "c. 3rd century BCE",
-        "event": "Apollonius of Rhodes - Argonautica",
-        "significance": "Famous account of Phineus and the harpies",
-        "source": "Argonautica"
-      },
-      {
-        "date": "29-19 BCE",
-        "event": "Virgil's Aeneid",
-        "significance": "Harpies appear as prophecy-givers and tormentors",
-        "source": "Aeneid Book III"
-      }
-    ],
-    "famous_harpies": [
-      {
-        "name": "Aello",
-        "meaning": "Storm swift",
-        "role": "One of the primary harpies"
-      },
-      {
-        "name": "Ocypete",
-        "meaning": "Swift wing or swift flier",
-        "role": "One of the primary harpies"
-      },
-      {
-        "name": "Celaeno",
-        "meaning": "The dark one",
-        "role": "One of the primary harpies; gives prophecy in Aeneid"
-      },
-      {
-        "name": "Podarge",
-        "meaning": "Fleet foot",
-        "role": "Sometimes listed as fourth harpy; mother of Achilles' horses"
-      }
-    ]
+    "timeline": []
   },
-
-  "mythology": {
-    "phineus_myth": {
-      "summary": "Most famous harpy story",
-      "description": "Blind prophet Phineus was tormented by harpies who would snatch or foul his food whenever he tried to eat, leaving him starving",
-      "resolution": "The Argonauts (specifically the Boreads - Zetes and Calais, winged sons of the North Wind) chased the harpies away",
-      "outcome": "Harpies fled to the Strophades islands and promised never to torment Phineus again",
-      "significance": "Demonstrates harpies as instruments of divine punishment for Phineus's transgression"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    "genealogy": {
-      "parents": "Thaumas (sea god) and Electra (Oceanid)",
-      "siblings": "Iris (goddess of rainbow and divine messenger)",
-      "offspring": "Podarge was said to be mother of Achilles's immortal horses Balius and Xanthus (by Zephyrus)"
-    }
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "textual": [
-      {
-        "type": "epic poetry",
-        "name": "Theogony",
-        "author": "Hesiod",
-        "date": "c. 700 BCE",
-        "description": "Early genealogy of harpies",
-        "status": "classical text"
-      },
-      {
-        "type": "epic poetry",
-        "name": "Argonautica",
-        "author": "Apollonius of Rhodes",
-        "date": "3rd century BCE",
-        "description": "Account of Phineus and the harpies",
-        "status": "classical text"
-      },
-      {
-        "type": "epic poetry",
-        "name": "Aeneid",
-        "author": "Virgil",
-        "date": "29-19 BCE",
-        "description": "Harpies on Strophades islands",
-        "status": "classical text"
-      }
-    ],
-    "artistic": [
-      {
-        "type": "pottery",
-        "name": "Greek vase paintings",
-        "date": "5th-4th century BCE",
-        "description": "Depictions of bird-women attacking Phineus",
-        "status": "museum collections"
-      },
-      {
-        "type": "sculpture",
-        "name": "Various reliefs and statues",
-        "date": "Classical period",
-        "description": "Harpy representations",
-        "status": "museum collections"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "symbolic_interpretations": [
-      {
-        "name": "Divine punishment",
-        "description": "Harpies represent divine vengeance and punishment for transgression",
-        "evidence_cited": ["Phineus myth", "Role as tormentors"]
-      },
-      {
-        "name": "Guilt personification",
-        "description": "Represent guilty conscience and psychological torment",
-        "evidence_cited": ["Foul nature", "Relentless pursuit", "Prevention of satisfaction"]
-      },
-      {
-        "name": "Sudden disappearance",
-        "description": "Explain mysterious disappearances of people or objects",
-        "evidence_cited": ["'Snatching' etymology", "Carrying away victims"]
-      },
-      {
-        "name": "Storm spirits",
-        "description": "Originally represented destructive winds and storms",
-        "evidence_cited": ["Wind spirit origin", "Names referencing speed and storm", "Parentage (Thaumas)"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "symbolism": {
-      "ancient": [
-        "Divine punishment and vengeance",
-        "Guilt and tormenting conscience",
-        "Swift retribution",
-        "Foulness and corruption",
-        "Mysterious disappearance"
-      ],
-      "modern": [
-        "Shrewish or nagging woman (pejorative)",
-        "Greedy or grasping person",
-        "Predatory female (negative connotation)"
-      ]
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Classical Greek and Roman poetry",
-        "Dante's Inferno (suicides transformed into trees tormented by harpies)",
-        "Modern fantasy literature featuring harpies"
-      ],
-      "film_tv": [
-        "Jason and the Argonauts (1963)",
-        "Various fantasy films and TV series",
-        "Animated features"
-      ],
-      "games": [
-        "Dungeons & Dragons and role-playing games",
-        "Video games featuring Greek mythology",
-        "Strategy games"
-      ],
-      "heraldry": [
-        "Harpy Monument (Tomb of the Harpies, Xanthos)",
-        "Occasional use in European heraldry"
-      ]
-    },
-    "linguistic_legacy": {
-      "modern_usage": "The term 'harpy' has acquired negative connotations in English, referring to a shrewish, nagging, or predatory woman",
-      "note": "This represents linguistic evolution from mythological creature to gendered insult"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "hesiod-theogony",
-      "type": "classical text",
-      "title": "Theogony",
-      "authors": ["Hesiod"],
-      "date": "c. 700 BCE"
-    },
-    {
-      "id": "apollonius-argonautica",
-      "type": "classical text",
-      "title": "Argonautica",
-      "authors": ["Apollonius of Rhodes"],
-      "date": "3rd century BCE"
-    },
-    {
-      "id": "virgil-aeneid",
-      "type": "classical text",
-      "title": "Aeneid",
-      "authors": ["Virgil"],
-      "date": "29-19 BCE"
-    },
-    {
-      "id": "grimal-1996",
-      "type": "book",
-      "title": "The Dictionary of Classical Mythology",
-      "authors": ["Pierre Grimal"],
-      "publication": "Wiley-Blackwell",
-      "date": "1996",
-      "isbn": "978-0631201021"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
