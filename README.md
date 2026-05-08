@@ -1,278 +1,158 @@
 # Harpy
 
-> *"The snatchers come on swift wings..."*
+> The Harpies are winged spirits in Greek mythology, originally personifications of stormy winds and divine snatchers. They appear in early sources as fair-haired winged maidens and in later literature as bird-bodied, women-faced monsters who steal food and abduct people as agents of divine punishment.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-mythological-purple)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `harpy` |
 | **Category** | MYTHOLOGICAL_CREATURE |
-| **Classification** | Greek Mythology / Bird-woman |
-| **First Recorded** | c. 700 BCE (Hesiod's Theogony) |
-| **Primary Region** | Ancient Greece |
-| **Status** | Mythological |
+| **Subcategory** | Bird-woman / wind spirit |
+| **First recorded** | 0700-01-01 |
+| **Primary range** | Mythologically, the wider Greek and Mediterranean world: Thrace (Phineus), the Strophades (Aeneid), the cave of Zephyrus, and stormy maritime regions in general |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird. Originally conceived as wind spirits and daughters of Thaumas and Electra, they evolved from beautiful winged maidens to grotesque monsters in later mythology.
-
-Known as "the snatchers," harpies were said to snatch away food, carry off people, and torment victims, most famously the blind prophet Phineus whom they plagued by fouling his food until freed by the Argonauts.
-
-The three most famous harpies are **Aello** (storm swift), **Ocypete** (swift wing), and **Celaeno** (dark). They possessed incredible flight speed and the ability to carry away people or objects.
-
-Harpies came to symbolize divine punishment, guilt, and sudden disappearance. The term "harpy" has evolved in modern usage to mean a shrewish or nagging woman, representing a negative linguistic evolution.
+Harpies (Greek Harpyiai, 'snatchers') are winged spirits of Greek and later Roman mythology, originally personifications of the destructive force of stormy winds. In Hesiod's Theogony they are described as 'fair-haired and winged maidens' who fly faster than the wind, daughters of the sea-god Thaumas and the Oceanid Electra and sisters of the rainbow goddess Iris. Later authors — including Virgil in the Aeneid and Roman poets such as Ovid and Hyginus — re-imagined them as foul, bird-bodied creatures with girls' faces, talons, and hunger-haggard features, occupying an emblematic place beside the other monstrous abductors of Greek myth. Three named harpies recur most often: Aello ('storm-swift'), Ocypete ('swift-wing'), and Celaeno ('dark'); Homer additionally names Podarge ('fleet-foot'), said to have borne Achilles' immortal horses Balius and Xanthus to the West Wind Zephyrus. The harpies' best-known myth is their persecution of the blind Thracian seer Phineus, whom Zeus punished by setting them to snatch and foul his food until the Boreads — the winged sons of the North Wind — drove them off during the voyage of the Argonauts. In Virgil's Aeneid, Aeneas encounters the harpies (led by Celaeno) on the Strophades islands, where Celaeno prophesies that the Trojans will be so hungry on reaching Italy that they will eat their own tables. Beyond literal myth, harpies serve as personifications of sudden disappearance, divine retribution, and ungovernable hunger; in modern English the word has acquired a derogatory secondary sense for a shrewish woman, a usage criticized as a misogynistic narrowing of the original mythological figure.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Harpyia | Ancient Greek (Ἅρπυιαι) | 'Snatchers', from harpazein 'to snatch' |
+| Harpyiae | Latin | Latin transliteration |
+| Aello | Greek | 'Storm-swift' — an individual harpy named in Hesiod |
+| Ocypete | Greek | 'Swift-wing' — an individual harpy named in Hesiod |
+| Celaeno | Greek | 'Dark, dusky' — an individual harpy added by Virgil |
+| Podarge | Greek | 'Fleet-foot' — a harpy named in Homer; mother of Achilles' horses Balius and Xanthus |
 
-### Primary Name
-- **Harpy** — From Greek "harpyia," from "harpazein" meaning "to snatch" or "to seize" (The snatchers or the swift robbers)
+## Etymology
 
-### Alternative Names
-
-| Name | Language | Meaning |
-|------|----------|---------|
-| Harpies | Greek | Plural form |
-| Harpyiai | Ancient Greek | The snatchers |
-| The Harpies | — | Collective term |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: MYTHOLOGICAL_CREATURE
-├── Type: Hybrid
-├── Subtype: Bird-woman
-└── Variant: Greek
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Siren](/siren) | Similar | Also bird-women in original Greek, but singers rather than snatchers |
-| Furies (Erinyes) | Similar | Greek punishment spirits, sometimes winged |
-| [Sphinx](/sphinx) | Related | Another Greek hybrid creature with woman's head |
+- **Origin**: From Ancient Greek Ἅρπυιαι (Harpyiai), connected to the verb ἁρπάζειν (harpazein), 'to snatch, seize'.
+- **Meaning**: 'The Snatchers' or 'the swift robbers'.
+- **First use**: Hesiod, Theogony (c. 700 BCE), in Homer's Odyssey and Iliad, and continuing through later Greek and Roman literature.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Sirens](../siren/) — _similar_: Greek bird-women associated with luring sailors with song
+- [Erinyes (Furies)](../erinyes/) — _similar_: Winged Greek goddesses of vengeance with whom harpies are sometimes paired
+- [Stymphalian Birds](../stymphalian-birds/) — _similar_: Greek monstrous birds with metallic feathers
+- [Anzu](../anzu/) — _counterpart_: Mesopotamian storm-bird divine being
+- [Iris](../iris/) — _related_: Sister of the harpies in Hesiod's genealogy
+- [Boreads (Zetes and Calais)](../boreads/) — _counterpart_: Winged sons of Boreas who pursue and drive off the harpies in the Argonautica
 
-### Physical Description
+---
+## Physical Description
 
-**Evolution**: Originally beautiful winged maidens (wind spirits) → Later grotesque bird-women with foul appearance and smell
+- **Coloration**: dark plumage (later sources), fair-haired (early sources)
+- **Morphology**: Originally a wind-personification in fully anthropomorphic winged-maiden form; reshaped over centuries into a hybrid theriomorph with bird body, talons, and human/female head.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Woman's head and torso | Human upper body, face of a woman | Always |
-| Bird wings | Large wings enabling swift flight | Always |
-| Bird talons | Sharp claws for grasping | Always |
-| Bird lower body | Feathered lower body and legs | Always |
-| Foul smell | Repulsive odor in later depictions | Common |
-| Pallid complexion | Pale or sickly appearance | Common |
+|---|---|---|
+| Wings | Always winged; speed of flight is emphasized in every source | always |
+| Bird body / talons (later sources) | Roman and post-Hesiodic sources give them bird-bodies with sharp talons | common |
+| Maiden's face / human upper body | Faces of women, sometimes with the upper body of a woman, atop a bird's body | common |
+| Fair-haired winged maiden form (early sources) | Hesiod and early sources describe them as fair-haired winged maidens rather than monsters | occasional |
+| Haggard / hunger-marked features | Later writers (e.g. Virgil) describe them as gaunt and hunger-faced | occasional |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Incredible flight speed | Swift as the wind, extremely fast fliers | Mythology |
-| Snatching | Snatch food, objects, and people | Mythology |
-| Carrying | Carry away people to unknown locations | Mythology |
-| Food fouling | Contaminate and befoul food and surroundings | Mythology |
-| Torment | Inflict psychological and physical torment | Mythology |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Wind-fast flight | Fly faster than the wind; embody the destructive power of storms | always | folklore |
+| Snatching / abduction | Steal food, snatch up people, and carry off the dead — the etymological core of their identity | always | folklore |
+| Fouling food | Foul whatever food they cannot carry off, as in the Phineus episode | common | folklore |
+| Prophecy | In Virgil's Aeneid, Celaeno delivers a prophecy concerning the Trojans' fate in Italy | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Role**: Agents of divine punishment, snatchers, tormentors
-- **Disposition**: Malevolent
-- **Patterns**:
-  - Snatch food before it can be eaten
-  - Foul remaining food with stench and excrement
-  - Carry away people (often to underworld)
-  - Serve as instruments of divine vengeance
-  - Swift attacks and rapid departure
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: pack
+- **Habitat**: open sky, the Strophades islands, the lairs of the Boreads, stormy regions
+- **Diet**: Stolen food; in some traditions, the souls of the dead
 
 ---
+## Distribution
 
-## The Named Harpies
+Mythologically, the wider Greek and Mediterranean world: Thrace (Phineus), the Strophades (Aeneid), the cave of Zephyrus, and stormy maritime regions in general. Culturally, harpies have been received throughout the Greco-Roman, medieval European, and modern global imaginary.
 
-| Name | Meaning | Role |
-|------|---------|------|
-| **Aello** | Storm swift | One of the primary harpies |
-| **Ocypete** | Swift wing or swift flier | One of the primary harpies |
-| **Celaeno** | The dark one | One of the primary harpies; gives prophecy in Aeneid |
-| **Podarge** | Fleet foot | Sometimes listed as fourth harpy; mother of Achilles' horses |
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Strophades | Ionian Sea, Greece |  | Mythological era |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-**Cultural Roots**: Greek mythology, originally wind spirits (daughters of sea god Thaumas and Oceanid Electra)
-
-**Evolution**: Transformed from beautiful swift wind spirits to foul grotesque monsters in later mythology
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| c. 700 BCE | Hesiod's Theogony | Early mention of harpies as daughters of Thaumas and Electra |
-| c. 3rd century BCE | Apollonius of Rhodes - Argonautica | Famous account of Phineus and the harpies |
-| 29-19 BCE | Virgil's Aeneid | Harpies appear as prophecy-givers and tormentors |
-
----
-
-## Famous Myth: Phineus and the Harpies ⭐
-
-### The Story
-
-**Victim**: Phineus, blind prophet  
-**Torment**: Harpies would snatch or foul his food whenever he tried to eat, leaving him starving  
-**Resolution**: The Argonauts (specifically the **Boreads** - Zetes and Calais, winged sons of the North Wind) chased the harpies away  
-**Outcome**: Harpies fled to the Strophades islands and promised never to torment Phineus again
-
-### Significance
-
-This myth demonstrates harpies as instruments of divine punishment for Phineus's transgression. It's the most famous harpy story in Greek mythology and appears in multiple classical sources.
-
----
-
-## Genealogy
-
-**Parents**: Thaumas (sea god) and Electra (Oceanid)  
-**Siblings**: Iris (goddess of rainbow and divine messenger)  
-**Offspring**: Podarge was said to be mother of Achilles's immortal horses Balius and Xanthus (by Zephyrus, the West Wind)
-
----
-
-## Symbolism & Interpretation
-
-### Ancient Symbolism
-
-1. **Divine Punishment**: Represent divine vengeance and punishment for transgression
-2. **Guilt Personification**: Represent guilty conscience and psychological torment
-3. **Sudden Disappearance**: Explain mysterious disappearances of people or objects
-4. **Storm Spirits**: Originally represented destructive winds and storms
-
-### Evidence Cited
-- Phineus myth and role as tormentors
-- "Snatching" etymology and carrying away victims
-- Wind spirit origin and names referencing speed and storm
-- Parentage (Thaumas, sea deity associated with wonders)
-
----
-
-## Popular Culture
-
-**Literature**:
-- Classical Greek and Roman poetry
-- Dante's *Inferno* (suicides transformed into trees tormented by harpies)
-- Modern fantasy literature featuring harpies
-
-**Film/TV**:
-- *Jason and the Argonauts* (1963)
-- Various fantasy films and TV series
-- Animated features
-
-**Games**:
-- Dungeons & Dragons and role-playing games
-- Video games featuring Greek mythology
-- Strategy games
-
-**Heraldry**:
-- Harpy Monument (Tomb of the Harpies, Xanthos)
-- Occasional use in European heraldry
-
----
-
-## Modern Usage & Linguistic Legacy
-
-### Negative Evolution
-
-The term "harpy" has acquired **negative connotations** in English:
-
-- Refers to a shrewish, nagging, or predatory woman
-- Represents linguistic evolution from mythological creature to gendered insult
-- Modern usage divorced from original mythological context
-
-This represents a problematic linguistic transformation that applies mythological monster imagery to human women in derogatory ways.
-
----
+|---|---|---|
+| 0700-01-01 | Hesiod, in the Theogony, names Aello and Ocypete as winged daughters of Thaumas and Electra | Earliest extant naming of individual harpies in Greek literature |
+| 0270-01-01 | Apollonius of Rhodes, in the Argonautica (3rd c. BCE), fixes the Phineus episode and the harpies' pursuit by the Boreads | Canonical Hellenistic version of the harpies' best-known myth |
+| 0019-01-01 | Virgil's Aeneid (c. 19 BCE) introduces Celaeno on the Strophades and her prophecy to the Trojans | Major Roman recasting of the harpies as monstrous bird-women |
 
 ## Evidence
 
-### Textual Sources
+### Documentary
 
-- **Hesiod's Theogony** (c. 700 BCE): Early genealogy of harpies
-- **Apollonius of Rhodes' Argonautica** (3rd century BCE): Account of Phineus and the harpies
-- **Virgil's Aeneid** (29-19 BCE): Harpies on Strophades islands
-
-### Artistic Evidence
-
-- **Greek vase paintings** (5th-4th century BCE): Depictions of bird-women attacking Phineus
-- **Various reliefs and statues** (Classical period): Harpy representations in museum collections
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Greek vase paintings of harpies |  | Archaic and classical Greek vase paintings depicting harpies, often in the Phineus episode. | verified |
+| Virgil, Aeneid Book III |  | Virgil's treatment of the harpies on the Strophades and Celaeno's prophecy to Aeneas. | verified |
 
 ---
+## Theories & Explanations
 
-## Sources & References
+### Paranormal / Cryptozoological
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+**Wind-personification origin** _(Classical mythographers)_
 
-### Primary Sources
+Within Greek myth, the harpies began as personifications of stormy winds — divine agents of sudden death and disappearance — before evolving into hybrid monsters.
 
-- Hesiod. *Theogony* (c. 700 BCE)
-- Apollonius of Rhodes. *Argonautica* (3rd century BCE)
-- Virgil. *Aeneid* (29-19 BCE)
-- Grimal, P. (1996). *The Dictionary of Classical Mythology*
+### Skeptical
 
----
+**Mythological figure / no claim of literal existence** _(Classical philology, Comparative mythology)_
 
-## API Reference
+Modern classical scholarship treats the harpies as mythological figures, not as literal creatures; their evolution from wind-spirits to bird-bodied monsters is studied as a literary and iconographic process.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Direct Access
+## Popular Culture
 
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/harpy/main/api.json
-```
+**Literature**: Hesiod, Theogony; Homer, Iliad XVI; Apollonius of Rhodes, Argonautica II; Virgil, Aeneid III; Dante, Inferno XIII (the Wood of Suicides); Ovid, Metamorphoses VII
 
----
+**Film / TV**: Jason and the Argonauts (1963), with Ray Harryhausen's harpies; Various Hercules and Greek-myth-themed television and film productions
 
-## Changelog
+**Games**: Recurring monster in Dungeons & Dragons (TSR/Wizards of the Coast); Featured in numerous modern video games (e.g. God of War, The Witcher series)
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+**Other**: Heraldic figure (e.g. arms of Nuremberg use a maiden-eagle related to the harpy/Jungfrauenadler tradition); Modern 'harpy eagle' (Harpia harpyja) named after the mythological figure
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Full API](api.json) • [Sources](SOURCES.md)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
